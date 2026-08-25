@@ -1,0 +1,6 @@
+{
+  "name": "Nosso Bairro",
+  "description": "Aplicativo para descoberta e participação na comunidade local, estabelecimentos, novidades, eventos, campanhas e contribuições.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
